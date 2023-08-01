@@ -9,7 +9,7 @@
 3. Project 3 - Repository: Pattern & Standards - 34212728 
 4. Project 4 - Repository: Robotics Process Automation - 34212728 
 5. Project 5 - Repository: Data Visualization - 34212728
-6. Exam (POE) Submission - Repository: Portfm-==olio of Evidence - 34212728
+6. Exam (POE) Submission - Repository: Portfolio of Evidence - 34212728
 
 
 For each project in the CMPG 323 course, a separate repository will be created, serving as a dedicated space for version control, collaboration, and submission of project-related materials, such as code and documents. These repositories will be structured and grouped under the CMPG 323 Overview project within the GitHub account. Each repository will be equipped with the specified milestones, labels, and README.md file, as outlined in the tasks. This organization ensures a streamlined and organized workflow for managing all the course projects.
