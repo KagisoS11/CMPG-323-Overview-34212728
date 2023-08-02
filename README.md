@@ -26,7 +26,6 @@ This repository serves as the central hub for organizing and managing all the pr
 
 The following diagram depicts the relationship between the projects and their corresponding repositories:
 
-![Alt text](![image](https://github.com/KagisoS11/CMPG-323-Overview-34212728/assets/113698102/843f7061-17a8-4f0c-b8dc-2cebd153f79b)
-)
+![](https://github.com/KagisoS11/CMPG-323-Overview-34212728/blob/main/Screenshot%202023-08-01%20164850.png)
 
 
