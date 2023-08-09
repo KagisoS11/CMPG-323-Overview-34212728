@@ -82,3 +82,7 @@ Sure, here's a concise and point-form explanation for storing credentials and se
 - Share sensitive information only with authorized team members through secure channels.
 - Regularly review and update access permissions to maintain data security.
 
+# Burndown Chart Example
+
+![](https://github.com/KagisoS11/CMPG-323-Overview-34212728/blob/main/Screenshot%202023-08-09%20093720.png)
+
