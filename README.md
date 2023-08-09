@@ -52,7 +52,7 @@ Sure, here's a concise and point-form explanation for the README.md:
 # Use of .gitignore File:
 
 - Prevents unnecessary files from being tracked and committed.
-- Protects sensitive information such asAPI keys, passwords from exposure.
+- Protects sensitive information such as API keys, passwords from exposure.
 - Reduces merge conflicts caused by platform-specific files.
 - Helps maintain a manageable repository size by excluding large binaries.
 - Focuses on essential code and project files, improving navigation.
